@@ -26,3 +26,9 @@ Programming assignment for CPE 1040 on implementing a `Stack` class in Python
    - `push` should reject all values except integers
    - in [main.py](main.py), write a test method `safe_test_int`, which tries to push values of various types like `test_all`, but catches `ValueError` exceptions in a `try...except` block, so the program runs to completion instead of being terminated on a rejected push 
    
+## Submission
+1. Fork the [assignment repository](https://github.com/ivogeorg/cpe1040-stack-class.git).
+2. Clone+open in PyCharm.
+3. Implement and test in PyCharm, committing your changes often.
+4. When done, push to your remote on Github.
+5. Submit the Google Classroom [assignment](https://classroom.google.com/u/0/c/Mjc4NzMyMzI1MTda/a/MzUxNTQyODE0Mzha/details), including a comment with the URL of your repository on Github.
