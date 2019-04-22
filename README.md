@@ -21,7 +21,7 @@ Programming assignment for CPE 1040 on implementing a `Stack` class in Python
    - add a single argument to the constructor `__init__` (after the mandatory `self`), called `sample`
    - using code similar to the [exception.py](exception.py) example, add code to `push` to check if the value being pushed has the same type as `sample` and faise a `ValueError` with the appropriate message, if not
    - re-run your `test_all` and verify it correctly rejects pushes of the wrong type
-5. (BONUS) Correctly implement a subclass `IntStack` which only works for integer pushes:
+5. **(BONUS)** Correctly implement a subclass `IntStack` which only works for integer pushes:
    - subclass from `Stack`
    - the `__init__` constructor should take no arguments (except the default `self`)
    - `push` should reject all values except integers
