@@ -3,8 +3,9 @@
 Programming assignment for CPE 1040 on implementing a `Stack` class in Python
 
 ## Resources
-1. Working with Python [classes](http://introtopython.org/classes.html)
-2. [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type) abstract data type
+1. Working with Python [classes](http://introtopython.org/classes.html).
+2. [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type) abstract data type.
+3. Raising [exceptions](https://docs.python.org/3/tutorial/errors.html) in Python.
 
 ## Requirements
 1. (30 points) You have the skeleton of the Stack class in [stack.py](stack.py). Implement a generic stack using a Python list and completed the three mandatory methods:
